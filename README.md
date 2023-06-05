@@ -1,1 +1,3 @@
-# quantum_mbalgorithm_gravsearch
+### Quantum Algorithm for Pattern Detection (Used in Gravitational Wave Search)
+
+#### Description (in Review currently)
